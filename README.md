@@ -45,6 +45,7 @@ npx expo start
 4. Rode em um emulador Android (pressione `a` no terminal) ou dispositivo físico compatível.
 
 ## Estrutura do projeto
+```
 src/
 ├── pages/
 │   ├── Login.js
@@ -56,7 +57,7 @@ src/
 └── routes.js          (navegação entre telas)
 styles.js              (estilos com styled-components)
 App.js
-
+```
 
 ## Observações
 
